@@ -152,7 +152,7 @@ Basic Commands for Bash, Linux, CMD, and GIT
     ```bash 
     git branch <new-branch-name>
     ```
-    - Send Pull request:
+    - Pull latest commit from remote:
    ```bash	
     git pull <remote> <branch>
     ```
