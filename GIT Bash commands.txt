@@ -1,0 +1,51 @@
+list command - ls
+change directory - cd
+clear page - clear
+Exit - exitlist command - ls
+change directory - cd
+clear page - clear
+Exit - exit
+
+make directory -  mkdir
+remove directory - rmdir
+
+Edit a file - nano "filename".extension
+create a file - touch "filename".extension
+remove a file - rm "filename".extension
+Never forget to smile :)
+
+****For cmd:
+
+cd - Change directory
+dir - List all directory
+mkdir - make dir
+rmdir - remove dir
+del - delete file
+help - shows manual help
+
+*****For Linux:
+
+cd - Change directory
+ls - List all directory
+mkdir - make dir
+rm - delete file/dir (-f)   [here, (-f) means force]
+pwd - displays the current dir
+man - shows manual help
+
+*****GIT commands:
+
+git clone <URL> - clone a repo
+git init: Initialising a git repo
+git clone "URL": clone a complete repo
+git status
+git log
+git add . 
+git commit -m " "
+git checkout - change the current state of wokring directory to given commit
+git push <remote name> <branch name>
+git switch -c <new-branch-name> or git branch <new-branch-name>	
+git pull <remote> <branch>
+git branch - view all branches
+git branch -d <branch-name>
+git merge <repo name>
+git diff <commit_1 id> <commit_2 id> - compare difference between 2 commits
