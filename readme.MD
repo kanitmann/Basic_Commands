@@ -46,6 +46,7 @@ Basic Commands for Bash, Linux, CMD, and GIT
   rm 'filename'.extension
   ```
  <br/>
+ 
 ------------------------------------------------------------------
 <br/>
 
