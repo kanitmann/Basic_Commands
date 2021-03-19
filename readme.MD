@@ -12,7 +12,7 @@ Basic Commands for Bash, Linux, CMD, and GIT
 - ### For Bash 
   - List command:
   ```bash 
-    ls
+   ls
     ```
   - Change Directory: 
   ```bash 
