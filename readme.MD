@@ -46,7 +46,7 @@ Basic Commands for Bash, Linux, CMD, and GIT
   rm 'filename'.extension
   ```
  <br/>
- 
+
 ------------------------------------------------------------------
 <br/>
 
@@ -84,7 +84,7 @@ Basic Commands for Bash, Linux, CMD, and GIT
 
   - Change directory:
   ```bash
-    cd 'directory_name'
+  cd 'directory_name'
    ```
   - List all directory:
   ```bash
