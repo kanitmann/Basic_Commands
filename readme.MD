@@ -1,6 +1,14 @@
 ## Basic Commands ##
 <br/>
 
+Basic Commands for Bash, Linux, CMD, and GIT
+
+1. [Bash](#for-bash)
+2. [CMD](#for-CMD)
+3. [Linux](#for-Linux)
+4. [GIT](#GIT-Commands)
+<br/>
+
 - ### For Bash 
   - List command:
   ```bash 
@@ -37,7 +45,7 @@
   ```bash 
   rm 'filename'.extension
   ```
-
+ <br/>
 ------------------------------------------------------------------
 <br/>
 
@@ -67,6 +75,7 @@
     ```bash
     help
     ```
+     <br/>
 ------------------------------------------------------------------
 <br/>
 
@@ -96,6 +105,7 @@
   ```bash
   man
   ```
+  <br/>
 ------------------------------------------------------------------
 <br/>
 
@@ -163,3 +173,7 @@
     git diff <commit_1 id> <commit_2 id> 
     ```
     
+
+
+    ------------------------------------------------------------------
+    For any issues or suggestions, please [Contact Me](mailto:mannkanit@gmail.com)
